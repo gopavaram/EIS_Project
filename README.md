@@ -1,5 +1,8 @@
 # EIS_Project
 
+# Problem Statement
+
+## Enable the telemarketing team to prioritize targeting for the term loan marketing program by adopting a data-driven approach for improved efficiency and conversion rates.
 
  Input variables:
    # bank client data:
